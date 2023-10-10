@@ -8,10 +8,5 @@ Reversing a List
 
 words = ['apple','banana','cherry', 'date']
 
-reversed_words = []
 
-for i in words.pop():
-
-  reversed_words.append(i)
-
-print(reversed_words)
+print(words[::-1]) # prints words in reverse order
