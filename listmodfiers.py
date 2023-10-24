@@ -8,7 +8,7 @@ nums = [1,2,3,4,5]
 
 popped_element = nums.pop() # returns the last element in the list
 
-
+# removing duplicates from a list and making a new one
 
 num_list = [1,1,2,3,4,5,3,3,8,4]
 
